@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+* **[RepuAI](https://repuai.live/)** – AI visibility scoring and brand monitoring for AI search engines.
 
 ## Open-Source Projects
 
