@@ -74,6 +74,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[LLM Optimizer](https://llmopt.metavert.io)** – AI brand visibility tool (like SEO for LLMs, or GEO); composite AI Visibility Score with per-dimension analysis across YouTube, Reddit, search, and direct LLM knowledge testing, plus prioritized optimization recommendations. MCP-native.
 
 ## Prompt Libraries & Templates
 
