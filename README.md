@@ -60,6 +60,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[GEOScore](https://geoscoreai.com/)** – Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness.
 
 ## Technical SEO
 
