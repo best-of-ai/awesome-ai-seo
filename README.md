@@ -1,102 +1,181 @@
-# Awesome AI SEO
+# Awesome AI Marketing
 
-> A curated list of tools, prompts, platforms, and resources that use **AI for SEO** — from content generation and keyword clustering to automated audits, SERP tracking, and technical optimization.
+A curated list of AI tools and resources for marketing professionals. This repository is designed to help marketers discover and implement AI-powered solutions to enhance their marketing efforts.
 
-## Contents
+By **[Altern](https://altern.ai)**
 
-* [General Resources](#general-resources)
-* [AI SEO Platforms](#ai-seo-platforms)
-* [Open-Source Projects](#open-source-projects)
-* [Keyword Research & Clustering](#keyword-research--clustering)
-* [Content Generation](#content-generation)
-* [SEO Auditing & On-Page Optimization](#seo-auditing--on-page-optimization)
-* [Technical SEO](#technical-seo)
-* [SERP Tracking & Analytics](#serp-tracking--analytics)
-* [Prompt Libraries & Templates](#prompt-libraries--templates)
-* [Courses & Guides](#courses--guides)
-* [Communities](#communities)
-* [Contributing](#contributing)
-* [License](#license)
 
-## General Resources
+## Table of Contents
 
-* **[The Marketing Newsletter](https://themarketingnewsletter.org)** – Weekly insights on AI-powered marketing and SEO.
-* **[What is AI SEO?](https://surferseo.com/blog/ai-in-seo/)** – A practical introduction to how AI is transforming SEO.
-* **[Moz Blog](https://moz.com/blog)** – Insights on SEO strategies, tools, and AI usage.
-* **[Search Engine Journal](https://www.searchenginejournal.com/)** – Industry updates and AI SEO news.
+- [Content Creation](#content-creation)
+- [Personalization](#personalization)
+- [Lead Generation](#lead-generation)
+- [Email Marketing](#email-marketing)
+- [Social Media Advertising](#social-media-advertising)
+- [Analytics](#analytics)
+- [SEO & Search Optimization](#seo--search-optimization)
+- [Customer Support](#customer-support)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
 
-## AI SEO Platforms
+## Content Creation
 
-* **[Surfer SEO](https://surferseo.com/)** – Content and SERP analyzer using AI.
-* **[Outranking](https://outranking.io/)** – Research, outline, write, and optimize SEO content with AI.
-* **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
-* **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
-* **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+- **[Jasper AI](https://www.jasper.ai)**  
+  An AI-powered content generation tool that assists with creating blog posts, social media copy, and marketing content. It accelerates content creation while maintaining high quality.
 
-## Open-Source Projects
+- **[Copy.ai](https://www.copy.ai)**  
+  A creative assistant that generates marketing copy for blogs, emails, and advertisements using artificial intelligence.
 
-* **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
-* **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
-* **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
-* **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+- **[Writesonic](https://www.writesonic.com)**  
+  AI writing assistant that generates high-quality marketing content for various needs, including blog posts, landing pages, and more.
 
-## Keyword Research & Clustering
+- **[Rytr](https://rytr.me)**  
+  AI writing tool that helps generate content for social media posts, emails, and websites, reducing time and effort for content creation.
 
-* **[KeywordInsights](https://keywordinsights.ai/)** – AI-powered keyword clustering and SERP analysis.
-* **[WriterZen](https://writerzen.net/)** – Keyword research, clustering, and topic discovery.
-* **[LowFruits](https://lowfruits.io/)** – Helps find long-tail, low-competition keywords.
-* **[Ahrefs Keywords Explorer](https://ahrefs.com/keywords-explorer)** – Explore keyword opportunities.
+- **[Ink for All](https://inkforall.com)**  
+  An AI tool focused on optimizing written content for better SEO performance and audience engagement.
 
-## Content Generation
+## Personalization
 
-* **[Jasper](https://www.jasper.ai/)** – AI writing assistant with SEO templates.
-* **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
-* **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
-* **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
+- **[Mutiny](https://www.mutiny.com)**  
+  A website personalization tool that uses AI to optimize user experiences and increase conversion rates by delivering personalized content based on user behavior.
 
-## SEO Auditing & On-Page Optimization
+- **[Personyze](https://www.personyze.com)**  
+  AI-driven personalization platform that delivers tailored recommendations for website visitors, email content, and more.
 
-* **[Frase](https://www.frase.io/)** – Optimize content using SERP data and AI.
-* **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
-* **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
-* **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+- **[Dynamic Yield](https://www.dynamicyield.com)**  
+  An AI-powered personalization platform that helps businesses deliver personalized customer experiences across websites, mobile apps, and email campaigns.
 
-## Technical SEO
+- **[Optimizely](https://www.optimizely.com)**  
+  A leading experimentation platform powered by AI that allows businesses to personalize and optimize their digital experiences.
 
-* **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** – Crawling and audit tool.
-* **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
-* **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
-* **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+- **[Algolia](https://www.algolia.com)**  
+  An AI-driven search and discovery API for developers that enhances product and content search experiences for users.
 
-## SERP Tracking & Analytics
+## Lead Generation
 
-* **[SE Ranking](https://seranking.com/)** – AI and machine learning tools for keyword tracking.
-* **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
-* **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
-* **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+- **[Clearbit](https://www.clearbit.com)**  
+  Provides real-time data intelligence to enrich leads, segment customers, and find high-potential prospects through AI-powered data insights.
 
-## Prompt Libraries & Templates
+- **[LeadGenius](https://www.leadgenius.com)**  
+  AI-powered sales prospecting tool that automatically sources leads based on your company's target market and needs.
 
-* **[AIPRM for ChatGPT](https://www.aiprm.com/)** – Community templates for SEO content and audits.
-* **[FlowGPT SEO Prompts](https://flowgpt.com/)** – SEO prompt marketplace.
-* **[PromptVine](https://promptvine.com/)** – Prompt library with copywriting and SEO sections.
+- **[Hunter.io](https://hunter.io)**  
+  AI-driven tool to find and verify email addresses for lead generation, allowing businesses to reach potential clients.
 
-## Courses & Guides
+- **[ZoomInfo](https://www.zoominfo.com)**  
+  A data-driven platform that leverages AI to help companies discover prospects and grow their businesses by providing accurate, actionable insights.
 
-* **[Surfer Academy](https://surferseo.com/academy/)** – Free courses on SEO and AI content.
-* **[AI SEO Playbook](https://contenthacker.com/ai-seo/)** – Practical guide to integrating AI in SEO.
-* **[HubSpot AI Content Guide](https://blog.hubspot.com/marketing/ai-content-marketing)** – Frameworks and examples.
+- **[UpLead](https://www.uplead.com)**  
+  A B2B lead generation platform with AI-powered data search to help marketers generate high-quality leads.
 
-## Communities
+## Email Marketing
 
-* **[r/SEO](https://www.reddit.com/r/seo/)** – Popular SEO subreddit with AI discussions.
-* **[SEO Signals Lab (Facebook)](https://www.facebook.com/groups/SEOSignalsLab/)** – Community of SEO pros.
-* **[Twitter SEO Influencers](https://twitter.com/search?q=seo)** – Follow trending experts in AI + SEO.
+- **[Seventh Sense](https://www.theseventhsense.com)**  
+  AI technology that optimizes email send times, increasing open rates and engagement by ensuring emails reach recipients at the most effective times.
+
+- **[Phrasee](https://www.phrasee.co)**  
+  An AI tool that generates optimized email subject lines and body text, helping marketers create more engaging and impactful campaigns.
+
+- **[Mailchimp](https://www.mailchimp.com)**  
+  A leading email marketing platform with built-in AI tools for campaign automation, optimization, and personalized email marketing.
+
+- **[Sendinblue](https://www.sendinblue.com)**  
+  Email marketing software with AI-driven features for creating personalized campaigns, automation, and analytics.
+
+- **[Moosend](https://www.moosend.com)**  
+  AI-powered email marketing tool designed for creating and automating campaigns to increase engagement and conversions.
+
+## Social Media Advertising
+
+- **[Smartly.io](https://www.smartly.io)**  
+  AI-powered platform for automating and optimizing social media ads across platforms like Facebook, Instagram, and Pinterest.
+
+- **[Adext AI](https://www.adext.ai)**  
+  Uses AI to automate digital ad campaigns, optimizing ad spend and improving conversion rates across various platforms.
+
+- **[Cortex](https://www.meetcortex.com)**  
+  AI-driven platform that helps businesses optimize their social media strategy through image analysis and content performance insights.
+
+- **[Roc Search](https://rocsearch.com)**  
+  An AI-based search platform that enhances social media marketing by delivering relevant search results and campaign insights.
+
+- **[Replai](https://www.replai.com)**  
+  AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
+
+## Analytics
+
+- **[PaveAI](https://www.paveai.com)**  
+  Turns Google Analytics data into actionable insights using AI, helping marketers optimize their digital marketing efforts.
+
+- **[MonkeyLearn](https://www.monkeylearn.com)**  
+  AI platform for text analysis, including sentiment analysis and keyword extraction, useful for analyzing customer feedback and reviews.
+
+- **[Wootric](https://www.wootric.com)**  
+  A customer experience management platform powered by AI that helps businesses understand their customers' feedback using sentiment analysis.
+
+- **[Google Analytics](https://analytics.google.com)**  
+  Google’s analytics platform with AI-powered insights to track website performance, user behavior, and marketing outcomes.
+
+- **[Hotjar](https://www.hotjar.com)**  
+  AI-driven user behavior analytics tool that provides insights into how users interact with your website through heatmaps, session recordings, and surveys.
+
+## SEO & Search Optimization
+
+- **[Surfer](https://www.surferseo.com)**  
+  AI-powered SEO tool that helps optimize web pages by analyzing search engine ranking factors and providing actionable optimization suggestions.
+
+- **[Frase](https://www.frase.io)**  
+  AI-driven content research and writing tool for SEO, helping marketers create optimized content that ranks well on search engines.
+
+- **[Clearscope](https://www.clearscope.io)**  
+  An AI-powered SEO tool for content optimization, helping marketers create well-researched content that ranks highly on search engines.
+
+- **[SEMrush](https://www.semrush.com)**  
+  A comprehensive SEO tool with AI-powered insights for keyword research, competitive analysis, and website optimization.
+
+- **[Moz](https://www.moz.com)**  
+  An AI-powered platform that helps marketers track SEO performance, identify ranking opportunities, and analyze competition.
+
+## Customer Support
+
+- **[Ada](https://www.ada.support)**  
+  AI-powered chatbot platform designed to improve customer support by automating responses and solving common issues quickly.
+
+- **[Intercom](https://www.intercom.com)**  
+  AI-driven customer service tool that helps businesses automate customer support tasks and engage with users in real-time.
+
+- **[Drift](https://www.drift.com)**  
+  AI-powered conversational marketing and sales platform, offering chatbots and live chat to automate customer support and increase engagement.
+
+- **[Zendesk](https://www.zendesk.com)**  
+  A popular customer support platform with AI-driven features for automating ticket routing and providing personalized support.
+
+- **[Kustomer](https://www.kustomer.com)**  
+  AI-powered customer service platform that offers automated workflows and smart conversation routing to optimize customer experiences.
+
+## Resources
+
+- **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**  
+  A curated list of marketing tools, strategies, and resources for marketers.
+- **[MarketingToolsList](https://marketingtoolslist.com)**  
+  A comprehensive platform that lists the best marketing tools for various digital marketing needs.
+- **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
+  A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[Syxo](https://www.syxoai.com)**  
+  AI marketing systems education. Digital products and 30+ free guides teaching solopreneurs to build complete AI marketing workflows.
 
 ## Contributing
 
-Contributions are welcome! Please open a PR or issue with suggestions.
+Contributions to this repository are welcome! If you have a tool or resource related to AI marketing, feel free to open a pull request. Here are some ways you can contribute:
+
+- Add new tools and resources to the list.
+- Improve the description or add more details to existing tools.
+- Suggest new categories or reorganize the list for better usability.
+
+Please make sure to follow the format used in this repository.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
