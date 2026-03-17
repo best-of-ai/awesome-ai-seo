@@ -70,6 +70,7 @@
 
 ## SERP Tracking & Analytics
 
+* **[GEOScore AI](https://geoscoreai.com/)** – Free AI search visibility scanner. Checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 * **[SE Ranking](https://seranking.com/)** – AI and machine learning tools for keyword tracking.
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
