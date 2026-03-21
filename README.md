@@ -35,10 +35,15 @@
 
 ## Open-Source Projects
 
+* **[AI Visibility](https://github.com/sharozdawa/ai-visibility)** – Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini. Web app + MCP server for AI search monitoring.
+* **[Awesome SEO MCP Servers](https://github.com/sharozdawa/awesome-seo-mcp-servers)** – Curated list of SEO MCP servers, agent skills, and tools for search engine optimization workflows.
 * **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[IndexNow MCP](https://github.com/sharozdawa/indexnow-mcp)** – Instant URL indexing via IndexNow and Google Indexing API. MCP server for automated index submission.
+* **[Robots.txt AI](https://github.com/sharozdawa/robotstxt-ai)** – Visual robots.txt manager for AI crawlers with support for 20+ bots. Web app + MCP server.
+* **[Schema Gen](https://github.com/sharozdawa/schema-gen)** – Schema.org JSON-LD markup generator supporting 12 types. Web app + MCP server for structured data.
 
 ## Keyword Research & Clustering
 
