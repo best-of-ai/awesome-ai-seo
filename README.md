@@ -54,6 +54,8 @@
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
 
+* **[Ooty](https://ooty.io)** – Remote MCP servers with 200+ SEO, analytics, and marketing tools for ChatGPT, Gemini, and Claude. Includes free tools for AI readiness checking, content analysis, and schema validation.
+
 ## SEO Auditing & On-Page Optimization
 
 * **[Frase](https://www.frase.io/)** – Optimize content using SERP data and AI.
