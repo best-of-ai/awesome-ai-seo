@@ -86,6 +86,7 @@
 * **[Surfer Academy](https://surferseo.com/academy/)** – Free courses on SEO and AI content.
 * **[AI SEO Playbook](https://contenthacker.com/ai-seo/)** – Practical guide to integrating AI in SEO.
 * **[HubSpot AI Content Guide](https://blog.hubspot.com/marketing/ai-content-marketing)** – Frameworks and examples.
+* **[Hi-Commerce GEO LLM](https://www.hi-commerce.fr/prestation-geo-llm/)** – GEO optimization service for visibility in ChatGPT, Perplexity and AI search engines.
 
 ## Communities
 
