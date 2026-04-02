@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ## Open-Source Projects
 
