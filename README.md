@@ -60,6 +60,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[AEO Scanner](https://aeo.codecity.com.tw/)** – Free AI-friendliness scoring tool. Analyzes 9 AEO metrics and generates fix code for JSON-LD, FAQ Schema, and llms.txt.
 
 ## Technical SEO
 
