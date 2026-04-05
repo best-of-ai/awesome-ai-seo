@@ -67,6 +67,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[IndexBolt IndexCheck](https://www.indexbolt.com/free-google-index-checker) - Free, open-source desktop app for bulk Google index checking with unlimited URL checks, Google Search Console integration, and CSV/JSON export.
 
 ## SERP Tracking & Analytics
 
