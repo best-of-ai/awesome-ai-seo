@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+* **[SEO for AI](https://getseoforai.com/)** – AI visibility audits for small businesses. Free citation checker plus a $197 full report covering ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews.
 
 ## Open-Source Projects
 
