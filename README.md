@@ -53,6 +53,7 @@
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
+* **[MindMap AI](https://mindmapai.app/text-summarizer)** – Visual AI tool for organizing keyword clusters, structuring content briefs, and turning research into SEO-friendly content plans.
 
 ## SEO Auditing & On-Page Optimization
 
