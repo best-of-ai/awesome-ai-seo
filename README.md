@@ -60,7 +60,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
-* **[AuditWidget](https://auditwidget.app/?utm_source=awesome-ai-seo&utm_medium=github)** – Embeddable SEO audit widget built for agencies. Visitors run a 12-point automated analysis; full report unlocks after sharing their email. White-label branding available. Free plan included.
+* **[AuditWidget](https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-ai-seo)** – Embeddable SEO audit widget built for agencies. Visitors run a 12-point automated analysis; full report unlocks after sharing their email. White-label branding available. Free plan included.
 
 ## Technical SEO
 
