@@ -72,6 +72,7 @@
 
 * **[SE Ranking](https://seranking.com/)** – AI and machine learning tools for keyword tracking.
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
+* **[Linksii](https://www.linksii.com/)** – AI search visibility platform. Monitors how brands appear across ChatGPT, Claude, Gemini, and Perplexity with daily tracking, sentiment analysis, and source citation scoring.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
 
