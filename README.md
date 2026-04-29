@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+* **[Parse](https://parse.gl/)** – AI brand visibility analytics tracking ChatGPT and Google AI Overviews with Parse Score benchmarks and competitor battlecards.
 
 ## Open-Source Projects
 
