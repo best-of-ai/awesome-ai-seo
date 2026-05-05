@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+* **[Arenza](https://arenza.ai/)** – Generative Engine Optimization platform measuring brand visibility, share of voice, sentiment, and citations across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok.
 
 ## Open-Source Projects
 
