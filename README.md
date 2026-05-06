@@ -40,6 +40,8 @@
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
 
+* **[Fix72 — Google Indexing Automation](https://github.com/dilm-seo/depannagelemans)** – Production-ready multi-source Google Indexing API rotation (3 OAuth sources = 600 URLs/day), GitHub Actions cron workflow, SSR prerendering pipeline. French local IT service (Le Mans). See `scripts/google-indexing.mjs` and `scripts/submit-all-urls.mjs`.
+
 ## Keyword Research & Clustering
 
 * **[KeywordInsights](https://keywordinsights.ai/)** – AI-powered keyword clustering and SERP analysis.
