@@ -33,6 +33,8 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 
+* **[The SEO Autopilot](https://the-seo-autopilot.com)** – Autonomous AI agent that runs the entire SEO pipeline (keyword research, fact-checked drafting, schema, internal linking, scheduling) for indie SaaS founders. Ships 13 free in-browser SEO tools (llms.txt generator, JSON-LD schema, SERP CTR calculator, hreflang, canonical, robots, AI overview checker).
+
 ## Open-Source Projects
 
 * **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
