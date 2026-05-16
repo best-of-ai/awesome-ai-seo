@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+* **[Reply Champion](https://www.replychampion.com/)** – AI-powered Google review management for local businesses, including review responses, review requests, and Google review QR/link tools.
 
 ## Open-Source Projects
 
