@@ -67,6 +67,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[SEO Audit Tool](https://seo.textools.site/)** – Self-evolving SEO analysis system with 24-point detection matrix. Weekly rule updates from Google official sources, automated fix generation, and optimized HTML output.
 
 ## SERP Tracking & Analytics
 
