@@ -53,6 +53,7 @@
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
+- [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 ## SEO Auditing & On-Page Optimization
 
