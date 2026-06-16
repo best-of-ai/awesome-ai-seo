@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[TinyTools](https://tinytools-smoky.vercel.app/)** – Free browser-based AI SEO utilities (no signup): AI robots.txt generator, SEO meta tag generator, AI content disclosure generator (EU AI Act compliant), favicon generator. Open source.
 
 ## SERP Tracking & Analytics
 
