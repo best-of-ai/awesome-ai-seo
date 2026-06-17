@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Revolead](https://revolead.ai)** – Done-for-you AI search optimization (GEO) and B2B lead generation; wins answers in ChatGPT, Perplexity, Gemini and Google AI Overviews and ties AI visibility to qualified enquiries.
 
 ## Open-Source Projects
 
