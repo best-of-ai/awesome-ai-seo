@@ -81,6 +81,7 @@
 * **[AIPRM for ChatGPT](https://www.aiprm.com/)** – Community templates for SEO content and audits.
 * **[FlowGPT SEO Prompts](https://flowgpt.com/)** – SEO prompt marketplace.
 * **[PromptVine](https://promptvine.com/)** – Prompt library with copywriting and SEO sections.
+* **[CreatorSkills](https://creatorskills.co)** – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Courses & Guides
 
