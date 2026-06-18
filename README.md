@@ -26,7 +26,7 @@
 * **[Search Engine Journal](https://www.searchenginejournal.com/)** – Industry updates and AI SEO news.
 
 ## AI SEO Platforms
-
+* **- [Cited By AI®](https://citedbyai.info)** - UK-based ASEO platform scoring content at block level using the Citation Probability Score® (CPS®) framework. Predicts citation probability across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews across five pillars: Content Structure, Fact Density, Answer Structure, Self-Containment, and Freshness Signals. Free CPS® Lite checker via MCP — no sign-up required.
 * **[Surfer SEO](https://surferseo.com/)** – Content and SERP analyzer using AI.
 * **[Outranking](https://outranking.io/)** – Research, outline, write, and optimize SEO content with AI.
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
