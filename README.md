@@ -41,6 +41,8 @@
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
 
+* **[Content Optimizer](https://github.com/sharozdawa/content-optimizer)** – Open source alternative to Surfer SEO. SERP-based content scoring with 7 categories (word count, keywords, headings, readability, entities, depth, technical). Web app + MCP server.
+
 ## Keyword Research & Clustering
 
 * **[KeywordInsights](https://keywordinsights.ai/)** – AI-powered keyword clustering and SERP analysis.
