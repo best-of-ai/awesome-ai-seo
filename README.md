@@ -47,6 +47,8 @@
 * **[WriterZen](https://writerzen.net/)** – Keyword research, clustering, and topic discovery.
 * **[LowFruits](https://lowfruits.io/)** – Helps find long-tail, low-competition keywords.
 * **[Ahrefs Keywords Explorer](https://ahrefs.com/keywords-explorer)** – Explore keyword opportunities.
+* **[Hi-Commerce Semantic Clusters](https://www.hi-commerce.fr/cocons-semantiques/)** – Cocon sémantique service: building interconnected topic clusters that signal topical authority to search engines and AI models. 1,200+ clusters deployed. (FR)
+* **[Hi-Commerce Semantic Clusters SEO](https://www.hi-commerce.fr/semantic-clusters-seo/)** – English guide to the semantic cluster methodology for comprehensive content architecture and topical authority. (EN)
 
 ## Content Generation
 
@@ -87,6 +89,10 @@
 * **[Surfer Academy](https://surferseo.com/academy/)** – Free courses on SEO and AI content.
 * **[AI SEO Playbook](https://contenthacker.com/ai-seo/)** – Practical guide to integrating AI in SEO.
 * **[HubSpot AI Content Guide](https://blog.hubspot.com/marketing/ai-content-marketing)** – Frameworks and examples.
+* **[Hi-Commerce GEO LLM](https://www.hi-commerce.fr/prestation-geo-llm/)** – GEO optimization service for visibility in ChatGPT, Perplexity and AI search engines. (FR)
+* **[Hi-Commerce GEO LLM Service](https://www.hi-commerce.fr/geo-llm-service/)** – English guide to GEO optimization: strategies for ensuring brand and content visibility in AI-powered search answers. (EN)
+* **[Hi-Commerce Google Discover Strategy](https://www.hi-commerce.fr/strategie-google-discover/)** – Framework for optimizing content to appear in Google Discover — capturing high-volume non-search traffic from Google's algorithmic feed. (FR)
+* **[Hi-Commerce Blog](https://www.hi-commerce.fr/tout-savoir-sur-le-commerce/)** – Practitioner-focused SEO blog with case studies on semantic clusters, GEO LLM, Google Discover, and e-commerce SEO.
 
 ## Communities
 
