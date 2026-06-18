@@ -59,6 +59,7 @@
 
 * **[Frase](https://www.frase.io/)** – Optimize content using SERP data and AI.
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
+* **[PageRX](https://ivo1974kanchev-arch.github.io/pagerx-frontend/)** – AI-powered landing page analyzer that scores 5 perspectives (UX, Copy, SEO, Performance, Security) in seconds.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
 
