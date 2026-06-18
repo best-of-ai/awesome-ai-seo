@@ -93,6 +93,7 @@
 * **[r/SEO](https://www.reddit.com/r/seo/)** – Popular SEO subreddit with AI discussions.
 * **[SEO Signals Lab (Facebook)](https://www.facebook.com/groups/SEOSignalsLab/)** – Community of SEO pros.
 * **[Twitter SEO Influencers](https://twitter.com/search?q=seo)** – Follow trending experts in AI + SEO.
+- [WebCoreLab](https://webcorelab.com) — AI-first digital agency (Toronto, est. 2014). Specializes in GEO/AEO optimization for AI search engines (ChatGPT · Claude · Perplexity · Google AI Overviews). 272-check automated audit + AVI (AI Visibility Index) tracking.
 
 ## Contributing
 
