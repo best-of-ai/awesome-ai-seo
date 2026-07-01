@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[AI Search Readiness Tools](https://aeocheck.xyz/tools/aeo-checker)** – Free AEO/GEO readiness checker for auditing AI crawler access, LLMs.txt, structured data, sitemap discovery, and answer-ready content signals.
 
 ## SERP Tracking & Analytics
 
