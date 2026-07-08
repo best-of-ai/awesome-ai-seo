@@ -24,6 +24,7 @@
 * **[What is AI SEO?](https://surferseo.com/blog/ai-in-seo/)** – A practical introduction to how AI is transforming SEO.
 * **[Moz Blog](https://moz.com/blog)** – Insights on SEO strategies, tools, and AI usage.
 * **[Search Engine Journal](https://www.searchenginejournal.com/)** – Industry updates and AI SEO news.
+* **[Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce)** – Curated list of GEO and agentic commerce resources: protocols (UCP, ACP, AP2, MCP), AI-visibility tools and agent readiness testing.
 
 ## AI SEO Platforms
 
