@@ -64,6 +64,7 @@
 
 ## Technical SEO
 
+* **[ActableSite MCP](https://github.com/unitedideas/actablesite-mcp)** – Read-only, MIT-licensed MCP server for public website audits and robots.txt policy checks across eight AI crawlers; supports remote Streamable HTTP and dependency-free stdio.
 * **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** – Crawling and audit tool.
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
