@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Screpy](https://screpy.com/)** – AI SEO platform for technical audits, keyword research, rank tracking, Core Web Vitals, uptime monitoring, and reporting.
 
 ## Open-Source Projects
 
