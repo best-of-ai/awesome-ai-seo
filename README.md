@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[aijob-seo-audit](https://github.com/jacky6658/aijob-seo-audit)** – Open-source white-hat SEO/AEO/GEO audit-and-fix tool validated on a real production site. Full-site link-graph orphan page detection (not sampling-based), misused/deprecated schema detection, sitemap gap checks, and Core Web Vitals interpretation against real CrUX field data rather than Lighthouse lab scores alone. Works as a Claude Code Skill or standalone Python scripts with any AI tool.
 
 ## Keyword Research & Clustering
 
