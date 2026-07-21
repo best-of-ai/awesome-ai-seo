@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[AI Visibility Check](https://alexander-k-eliot.github.io/ai-visibility-check-free/)** – Free, no-signup toolkit that checks whether AI assistants like ChatGPT and Perplexity can read and quote your site: structured data, llms.txt, robots.txt AI-crawler policy, FAQ schema, answer-shaped content.
 
 ## Technical SEO
 
