@@ -52,7 +52,7 @@
 
 * **[Jasper](https://www.jasper.ai/)** – AI writing assistant with SEO templates.
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
-* **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
+* **[Copy.ai](https://copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
 
 ## SEO Auditing & On-Page Optimization
@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[LLM Visibility Check](https://llmvisibilitycheck.com/)** – Free LLM visibility check: see whether ChatGPT, Perplexity, Gemini and Google AI Overviews recommend your brand. Free first report, no credit card.
 
 ## Prompt Libraries & Templates
 
