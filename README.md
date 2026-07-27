@@ -57,6 +57,7 @@
 
 ## SEO Auditing & On-Page Optimization
 
+* **[AISO Tools AI Visibility Audit](https://aisotools.com/audit)** – Free, no-signup audit scoring 0–100 how often ChatGPT recommends your tool across five category prompts, plus the competitors it names instead.
 * **[Frase](https://www.frase.io/)** – Optimize content using SERP data and AI.
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
