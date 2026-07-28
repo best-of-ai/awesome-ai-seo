@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Brand AI Visibility](https://brandaivisibility.com)** – Free AI brand visibility checker. Test how 9 AI models (ChatGPT, Perplexity, Gemini, Claude) recognize your brand. Get a visibility score, sentiment analysis, and per-model breakdown. No sign-up required.
 
 ## Open-Source Projects
 
