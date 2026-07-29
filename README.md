@@ -76,6 +76,8 @@
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
 
+* **[GSC Opportunity Analyzer](https://seoreportkit.com/tools/gsc-opportunity-analysis/)** – Local-first browser tool and open-source CLI that turns GSC CSV exports into striking-distance, CTR-gap, rising-demand, decay, and page-opportunity queues without uploading data.
+
 ## Prompt Libraries & Templates
 
 * **[AIPRM for ChatGPT](https://www.aiprm.com/)** – Community templates for SEO content and audits.
