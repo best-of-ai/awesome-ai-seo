@@ -64,6 +64,7 @@
 
 ## Technical SEO
 
+* **[AI Readiness Checker](https://samedaydesk.com/tools/ai-readiness)** – Free, no-signup audit of whether AI engines (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) can crawl and understand your site (crawler access, JSON-LD, metadata, sitemap, llms.txt), with concrete fixes. Open-source CLI: `npx github:epistemedeus/ai-readiness <url>`.
 * **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** – Crawling and audit tool.
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
