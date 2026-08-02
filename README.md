@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[CiteCheckup](https://www.citecheckup.com/)** – Free webpage audit that scores seven published AI citation-readiness signals and suggests practical content fixes.
 
 ## Technical SEO
 
