@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[Is My Brand in AI](https://ismybrandinai.com/tools/ai-bot-checker)** – Free, no-signup tool that reads a site's robots.txt and shows which AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, BingBot) it allows or blocks.
 
 ## SERP Tracking & Analytics
 
