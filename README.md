@@ -54,6 +54,7 @@
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
+* **[PPTMaster](https://pptmaster.online/)** – AI PowerPoint generator with tool reviews and comparisons for SEO content creators.
 
 ## SEO Auditing & On-Page Optimization
 
