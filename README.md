@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[PageGuard](https://pageguard.org)** – Free AI-powered website health scanner. Runs Lighthouse audits (SEO, performance, accessibility, best practices) and generates AI action plans with natural language recommendations. Includes a CORS-enabled REST API for developers.
 
 ## Technical SEO
 
