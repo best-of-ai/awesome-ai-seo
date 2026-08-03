@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[Dualmark](https://github.com/dodopayments/dualmark)** – Open-source AEO/GEO infrastructure. Auto-generates markdown twins of every page (e.g. `/pricing.md`) and serves them to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, +16 known UAs) via HTTP content negotiation, while humans get HTML — same URL, two formats. Adapters for Astro, Next.js, Cloudflare Workers. Apache 2.0, npm provenance attested. Includes a conformance CLI (`dualmark verify <url>`) that scores any site 0–125 against a public AEO spec.
 
 ## Keyword Research & Clustering
 
