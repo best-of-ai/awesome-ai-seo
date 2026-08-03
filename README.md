@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[AgentReady](https://agentready.site/)** – AI readiness scanner that scores websites on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility). Provides actionable recommendations and industry benchmarks for AI agent compatibility.
 
 ## Technical SEO
 
