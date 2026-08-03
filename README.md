@@ -40,7 +40,8 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
-
+* **[Ansvisor](https://github.com/aeohub/ansvisor)** - Open-source AEO platform to track how AI engines mention your brand
+ 
 ## Keyword Research & Clustering
 
 * **[KeywordInsights](https://keywordinsights.ai/)** – AI-powered keyword clustering and SERP analysis.
