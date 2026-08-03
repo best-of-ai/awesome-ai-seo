@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Rankfor.AI](https://rankfor.ai/)** – Measures how ChatGPT, Gemini, and Perplexity recommend brands, per model and per language (24 European languages), using a repeated-query methodology published with open data.
 
 ## Open-Source Projects
 
