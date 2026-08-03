@@ -40,6 +40,11 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[ai-visibility](https://github.com/sharozdawa/ai-visibility)** – Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini. Visibility scores, sentiment analysis, competitor detection, trend charts. Web app + MCP server.
+* **[robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai)** – Visual robots.txt manager for AI crawlers. Toggle 20+ AI bots with one click. Web app + MCP server.
+* **[indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp)** – Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API. MCP server.
+* **[schema-gen](https://github.com/sharozdawa/schema-gen)** – Schema.org JSON-LD markup generator with 12 types and live preview. Web app + MCP server.
+* **[awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers)** – Curated list of SEO MCP servers, agent skills, and open source tools.
 
 ## Keyword Research & Clustering
 
