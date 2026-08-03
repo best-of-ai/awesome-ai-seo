@@ -1,4 +1,5 @@
 # Awesome AI SEO
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 
 > A curated list of tools, prompts, platforms, and resources that use **AI for SEO** — from content generation and keyword clustering to automated audits, SERP tracking, and technical optimization.
 
