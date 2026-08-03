@@ -36,6 +36,7 @@
 
 ## Open-Source Projects
 
+* **[AI Visibility Monitor (AVM)](https://github.com/WorkSmartAI-alt/ai-visibility-monitor)** – Open-source CLI that tracks AI search engine citations across Claude, ChatGPT, and Perplexity. Multi-engine in one run, Haiku 4.5 default at ~$0.30 per weekly run. Includes adjacent query discovery (`--expand`), source-surface categorization, and trajectory tracking (`avm trend`). No SaaS, no signup, customer owns the data.
 * **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
