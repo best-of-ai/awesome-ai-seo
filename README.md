@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Recommd](https://recommd.com)** – AI visibility audit for local businesses. Checks whether ChatGPT, Perplexity, and Google AI Overviews recommend a business or a competitor, with a 0-100 score and a plain-English fix plan. Free basic check, no signup.
 
 ## Open-Source Projects
 
