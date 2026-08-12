@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker)** – Checks robots.txt, page directives, response headers, and responses for six documented OpenAI and Anthropic crawler user agents.
 
 ## SERP Tracking & Analytics
 
