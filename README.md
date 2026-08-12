@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Mentioned](https://mentioned.to)** – Done-for-you Reddit growth service for SEO and AI search visibility; publishes native posts and comments and reports share of voice vs competitors.
 
 ## Open-Source Projects
 
