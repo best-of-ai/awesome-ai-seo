@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[Arobis llms.txt Generator](https://arobis.ai/llms-txt-generator)** - Free browser-based llms.txt generator. No crawler, no signup, runs fully client-side so nothing entered leaves the page.
 
 ## SERP Tracking & Analytics
 
