@@ -24,6 +24,7 @@
 * **[What is AI SEO?](https://surferseo.com/blog/ai-in-seo/)** – A practical introduction to how AI is transforming SEO.
 * **[Moz Blog](https://moz.com/blog)** – Insights on SEO strategies, tools, and AI usage.
 * **[Search Engine Journal](https://www.searchenginejournal.com/)** – Industry updates and AI SEO news.
+* **[CitedIndex](https://citedindex.com)** – Independent directory comparing AI-visibility (GEO/AEO) tools that track brand citations in ChatGPT, Perplexity, and Google AI Overviews, with pricing and engine coverage verified against each vendor's own site.
 
 ## AI SEO Platforms
 
