@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[TrackAIMentions](https://trackaimentions.com/ai-visibility-checker)** – Free report-first checker for whether ChatGPT-style answers and a Perplexity sample organically recommend a brand or its competitors.
 
 ## Open-Source Projects
 
