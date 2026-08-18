@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[GEOKit](https://geokit.site)** – Free Generative Engine Optimization (GEO) & AI SEO toolkit with llms.txt builders, AI robots.txt crawler manager, and AI search readiness audit.
 
 ## SERP Tracking & Analytics
 
