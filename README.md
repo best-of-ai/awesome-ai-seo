@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[zens.ink](https://github.com/ZensInk/zens-ink-seo-package)** – Free open-source SEO CLI toolkit (26 tools, pure Python stdlib, zero dependencies): keyword research, SERP difficulty scoring, site audit, GEO/AI-search visibility score, rank tracking. `pip install zens-ink`.
 
 ## Keyword Research & Clustering
 
