@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[Scaleify AI Visibility Checker](https://scaleify.co/audit)** – Free evidence-first scan for noindex, canonical, metadata, structured-data, answer-depth, and trust signals, with explicit limits on what a public-page audit can verify.
 
 ## Technical SEO
 
