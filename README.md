@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[indexgap](https://github.com/borisowlexa2010-star/IndexGap)** – Audits programmatic SEO pipelines: fact-checks generated pages against the dataset row that produced them, collapses template-wide findings, clusters near-duplicates, validates hreflang, checks answer-extraction readiness for AI search, and measures whether ChatGPT, Perplexity, Gemini and Grok cite your domain. Python stdlib only, no dependencies. MIT.
 
 ## Keyword Research & Clustering
 
