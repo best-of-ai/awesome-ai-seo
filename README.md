@@ -50,6 +50,8 @@
 
 ## Content Generation
 
+* **[BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills)** – Agent skills for adapting, reviewing, scheduling, and publishing approved content through BulkPublish's API or hosted MCP.
+
 * **[Jasper](https://www.jasper.ai/)** – AI writing assistant with SEO templates.
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
