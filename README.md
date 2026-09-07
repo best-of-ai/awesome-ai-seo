@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[AltoRank](https://github.com/AltoRank/altorank)** – AGPL-3.0 AI SEO content engine, self-hostable. Keyword research, domain audit, drafting with scoring and fact-checking, rank tracking, Search Console and Bing analytics, AI-answer visibility, and publishing to 13 destinations across 10 CMS platforms. A person approves every article; no API or MCP call can publish a draft.
 
 ## Keyword Research & Clustering
 
