@@ -41,6 +41,8 @@
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
 
+* **[A11yKit](https://a11ykit.site/)** - 15 free client-side Web accessibility and WCAG 2.2 audit tools, featuring an AI Alt Text generator for image SEO and CI/CD GitHub Action.
+
 ## Keyword Research & Clustering
 
 * **[KeywordInsights](https://keywordinsights.ai/)** – AI-powered keyword clustering and SERP analysis.
