@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[GrowthGadgetAi](https://growthgadgetai.com/)** – AI marketing workspace with an SEO content planner (keyword clustering, briefs, schema suggestions), a landing-page/CRO auditor and 10 other connected modules; free plan, no card required.
 
 ## Technical SEO
 
