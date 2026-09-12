@@ -36,6 +36,7 @@
 
 ## Open-Source Projects
 
+* **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** – Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 * **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
