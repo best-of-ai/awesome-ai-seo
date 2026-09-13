@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[squirrelscan](https://squirrelscan.com/)** – CLI website audit tool built for coding agents like Claude Code and Cursor. Runs 260+ rules across SEO, performance, security, accessibility and agent experience (llms.txt, AI crawler access) and hands the agent exact, source-mapped fixes. Free local audits, GitHub Action, MCP server.
 
 ## SERP Tracking & Analytics
 
