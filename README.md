@@ -88,6 +88,7 @@
 * **[AI SEO Playbook](https://contenthacker.com/ai-seo/)** – Practical guide to integrating AI in SEO.
 * **[HubSpot AI Content Guide](https://blog.hubspot.com/marketing/ai-content-marketing)** – Frameworks and examples.
 * **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
+* **[SearchD's AI Visibility Measurement Methodology](https://searchd.ai/how-it-works)** – Explains fixed buyer-question panels, per-engine brand mention tracking, and repeated baseline runs for distinguishing changes from answer variability.
 
 ## Communities
 
