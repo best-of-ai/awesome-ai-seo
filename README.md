@@ -54,6 +54,7 @@
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
+* **[Writon](https://writon.co/)** – Turns keywords into SEO articles with featured images and publishes them to WordPress on a schedule or on autopilot.
 
 ## SEO Auditing & On-Page Optimization
 
