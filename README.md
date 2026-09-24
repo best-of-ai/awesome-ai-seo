@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Robot Speed](https://www.robot-speed.com/)** – SEO audits, keyword research, AI-written articles published to your CMS and AI-search visibility, also usable from AI agents via MCP.
 
 ## Open-Source Projects
 
