@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[LogNorm](https://lognorm.com)** – Hands a site's SEO and GEO backlog (audits, fixes, content, AI-answer tracking) to agents like Claude Code, Codex and Cursor via a hosted MCP server.
 
 ## Open-Source Projects
 
