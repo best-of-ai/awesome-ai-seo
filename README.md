@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[Firm Beacon Free On-Page SEO Checker](https://www.firmbeacon.co.uk/tools/seo-checker?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_ai_seo)** – Checks 11 HTML and social metadata signals on one public page without an account, including title, meta description, H1, canonical, robots directives, language, viewport and Open Graph tags.
 
 ## Technical SEO
 
