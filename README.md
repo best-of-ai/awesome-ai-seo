@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[IndexLinks](https://indexlinks.app)** – Gets pages crawled by Google, Bing and AI search engines, with a verified receipt for each crawler visit.
 
 ## SERP Tracking & Analytics
 
