@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Shipfound](https://www.shipfound.co/)** – Claude Code and Codex plugin that ships SEO and AI search fixes and content as pull requests, and tracks AI crawlers and AI visibility.
 
 ## Open-Source Projects
 
