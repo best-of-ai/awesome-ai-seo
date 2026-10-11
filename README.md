@@ -34,6 +34,8 @@
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
 
+* **[Serpel](https://serpel.app)** – SEO infrastructure for rankings, site audits, keyword research, and AI visibility.
+
 ## Open-Source Projects
 
 * **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
