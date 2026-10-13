@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[OnlyAEO](https://onlyaeo.com)** – Be the answer. Fully managed AEO and GEO service that helps businesses get recommended organically in ChatGPT, Gemini, Claude and Perplexity answers.
 
 ## Open-Source Projects
 
