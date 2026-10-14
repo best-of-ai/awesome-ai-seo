@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Pineprompt](https://pineprompt.com)** – Paid AI-search visibility monitoring. Tracks brand mentions, citations and share of voice across ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews/AI Mode, daily.
 
 ## Open-Source Projects
 
