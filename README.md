@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[NeverDrafts](https://www.neverdrafts.com)** – AI search visibility tracking across ChatGPT, Claude, Google AI Mode and Perplexity that writes and auto-publishes content to win the prompts you're losing.
 
 ## Open-Source Projects
 
