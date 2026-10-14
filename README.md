@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[Said by AI](https://www.saidbyai.com/)** – Checks whether AI answers name a brand: 20 buyer-style questions sent to GPT-4o mini in three answer styles, with the competitors named instead and an action plan. Free 5-question check; full audit 49 USD once.
 
 ## Prompt Libraries & Templates
 
