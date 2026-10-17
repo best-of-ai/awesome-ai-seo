@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+ * **[SEO·AEO·GEO](https://seoaeogeo.app/)** – Free page audit for Google and AI search crawlers (robots.txt per AI bot, CDN blocks, text visible without JavaScript) with fixes in priority order; also a remote MCP server.
 
 ## Technical SEO
 
