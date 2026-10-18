@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker)** – Free check of whether ChatGPT and Perplexity cite a site for its buyer questions, with the competitors cited instead.
 
 ## Technical SEO
 
