@@ -47,6 +47,7 @@
 * **[WriterZen](https://writerzen.net/)** – Keyword research, clustering, and topic discovery.
 * **[LowFruits](https://lowfruits.io/)** – Helps find long-tail, low-competition keywords.
 * **[Ahrefs Keywords Explorer](https://ahrefs.com/keywords-explorer)** – Explore keyword opportunities.
+* **[CallAI](https://callaiapi.com/en)** – Pay-as-you-go keyword research, AI Overview citation tracking and competitor gap analysis.
 
 ## Content Generation
 
