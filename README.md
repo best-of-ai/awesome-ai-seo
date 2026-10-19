@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Seonix](https://seonix.ai)** – Automated SEO: site audit, keyword clusters, AI articles published on schedule and AI-answer visibility tracking, with an MCP server for agents.
 
 ## Open-Source Projects
 
