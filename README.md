@@ -47,6 +47,7 @@
 * **[WriterZen](https://writerzen.net/)** – Keyword research, clustering, and topic discovery.
 * **[LowFruits](https://lowfruits.io/)** – Helps find long-tail, low-competition keywords.
 * **[Ahrefs Keywords Explorer](https://ahrefs.com/keywords-explorer)** – Explore keyword opportunities.
+* **[seodata.dev](https://www.seodata.dev/)** – Keyword search volume API and MCP server so Claude, Cursor and other agents can check demand mid-conversation.
 
 ## Content Generation
 
