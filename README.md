@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Rankwise](https://tryrankwise.com)** – Tracks whether ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews cite a brand, drafts articles for the questions it loses, and lists technical fixes for AI crawlers. MCP server and REST API. From $59/mo.
 
 ## Open-Source Projects
 
