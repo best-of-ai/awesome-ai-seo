@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[SerpKite](https://serpkite.com/)** – Google SERP API for AI agents, with domain rank checks in the top 100 and a remote MCP server for AI assistants.
 
 ## Prompt Libraries & Templates
 
