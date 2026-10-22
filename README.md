@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[PageLens Analytics](https://pagelens.io/)** – Cookieless web analytics that shows which pages AI crawlers read, which ones ChatGPT, Claude and Perplexity open to answer people, and the visits they send; also a free AI crawler checker.
 
 ## Prompt Libraries & Templates
 
