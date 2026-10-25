@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[EzDistro](https://github.com/Rastin-Amani/EzDistro)** – Self-hosted SEO content automation: indexes your WordPress posts, writes retrieval-grounded articles with your own LLM, and publishes them back. Keyword research and clustering run on Google Ads data and your own content, with no invented search volumes.
 
 ## Keyword Research & Clustering
 
