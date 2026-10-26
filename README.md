@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[Cite Unseen](https://citeunseen.io/)** – Audits how your own site reads to AI retrieval systems (robots file, sitemap, raw HTML). Free scan with no account; paid audits use 33 published checks.
 
 ## SERP Tracking & Analytics
 
