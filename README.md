@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console)** – Free remote MCP access for AI assistants to query owned-site Google Search Console and Bing Webmaster data; authentication required.
 
 ## Prompt Libraries & Templates
 
