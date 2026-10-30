@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[MessGEO](https://messgeo.com/)** - Tracks brand visibility in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews with daily prompt tracking.
 
 ## Prompt Libraries & Templates
 
