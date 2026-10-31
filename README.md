@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[Vaneform](https://vaneform.com/)** – Free website traffic and search-keyword estimates for any domain (complementary competitive SERP context).
 
 ## Prompt Libraries & Templates
 
