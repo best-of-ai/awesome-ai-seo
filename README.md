@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[AI Visibility Tracker](https://apify.com/gaelasao/ai-visibility-tracker)** – API that checks whether ChatGPT, Perplexity, Gemini and Google AI answers mention and cite your brand.
 
 ## Prompt Libraries & Templates
 
