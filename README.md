@@ -40,6 +40,8 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[seocheck-cli](https://github.com/romangrid/seocheck-cli)** – High-performance CLI SEO auditor and Core Web Vitals diagnostic tool powered by [SEOCheck-AI](https://seocheck-ai.com/free-seo-check).
+* **[seoaudit-core-web-vitals](https://github.com/romangrid/seoaudit-core-web-vitals)** – Command-line Core Web Vitals scanner and technical audit tool by [SEOAudit](https://seoaudit.com.ua/).
 
 ## Keyword Research & Clustering
 
@@ -68,6 +70,8 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[SEOAudit](https://seoaudit.com.ua/)** – Automated technical SEO audit, Core Web Vitals diagnostics, and security header scanning.
+* **[SEOCheck-AI](https://seocheck-ai.com/free-seo-check)** – Instant technical SEO health check, meta analysis, and AI search visibility scoring.
 
 ## SERP Tracking & Analytics
 
