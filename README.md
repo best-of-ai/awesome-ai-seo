@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Contentstack Canoe](https://canoe.contentstack.com/)** - Shows whether ChatGPT, Gemini, Perplexity and Claude recommend your brand, which sources they cite and what to fix first. Free forever plan.
 
 ## Open-Source Projects
 
