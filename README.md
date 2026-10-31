@@ -33,7 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
-
+* **[OneLence](https://onelence.com)** – AI search visibility (GEO/AEO) and marketing analytics: shows AI crawler activity, AI referrals and the pages AI answers cite, alongside SEO, paid and affiliate growth opportunities, and where to focus next.
 ## Open-Source Projects
 
 * **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
