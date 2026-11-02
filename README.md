@@ -47,6 +47,7 @@
 * **[WriterZen](https://writerzen.net/)** – Keyword research, clustering, and topic discovery.
 * **[LowFruits](https://lowfruits.io/)** – Helps find long-tail, low-competition keywords.
 * **[Ahrefs Keywords Explorer](https://ahrefs.com/keywords-explorer)** – Explore keyword opportunities.
+* **[Rillow Keyword Clustering](https://rillow.ai/tools/keyword-clustering)** – Free AI tool that sorts keywords into topic clusters by meaning and search intent.
 
 ## Content Generation
 
@@ -75,6 +76,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[Rillow AI Overview Checker](https://rillow.ai/tools/ai-overview-checker)** – Free check of whether Google's AI Overview and Claude cite your site, and where you rank in Google's top 10.
 
 ## Prompt Libraries & Templates
 
