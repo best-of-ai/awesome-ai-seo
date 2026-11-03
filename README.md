@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[RanklyBee](https://ranklybee.com)** – All-in-one platform for SEO, GEO and AI visibility, with an MCP server for AI assistants.
 
 ## Open-Source Projects
 
