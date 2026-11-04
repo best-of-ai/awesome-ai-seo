@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[AI Crawler & Robots.txt Checker](https://ajaypadhy.com/tools/ai-crawler-checker)** – Free tool that tests robots.txt rules for GPTBot, ClaudeBot, PerplexityBot and Googlebot, with a firewall test.
 
 ## SERP Tracking & Analytics
 
