@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[CrestGeo](https://crestgeo.com)** – Checks whether AI assistants (Doubao, DeepSeek, Kimi) mention and recommend a brand or website; AI visibility score with top issues, supports brands without a website.
 
 ## Prompt Libraries & Templates
 
