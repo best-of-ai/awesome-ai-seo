@@ -47,6 +47,7 @@
 * **[WriterZen](https://writerzen.net/)** – Keyword research, clustering, and topic discovery.
 * **[LowFruits](https://lowfruits.io/)** – Helps find long-tail, low-competition keywords.
 * **[Ahrefs Keywords Explorer](https://ahrefs.com/keywords-explorer)** – Explore keyword opportunities.
+* **[GoAnyAPI](https://goanyapi.com)** – SEO & marketing data API suite with a hosted MCP server for AI agents: keyword difficulty, search volume, suggestions and generation, multi-engine SERP and autocomplete, backlinks, website traffic, and Google Ads Transparency.
 
 ## Content Generation
 
