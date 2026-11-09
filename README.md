@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[CiteAura](https://citeaura.com/)** – Measures how often AI answer engines cite a brand, labels each sample by mode and model version, and turns the gaps into engineering tickets.
 
 ## Open-Source Projects
 
