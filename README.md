@@ -50,6 +50,7 @@
 
 ## Content Generation
 
+* **[AdVariq](https://advariq.com/)** – AI commercial ad creative and product marketing visual generator for online brands and DTC sellers.
 * **[Jasper](https://www.jasper.ai/)** – AI writing assistant with SEO templates.
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
