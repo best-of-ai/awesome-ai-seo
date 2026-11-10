@@ -54,6 +54,7 @@
 * **[Writesonic](https://writesonic.com/)** – Long-form AI writing for SEO.
 * **[Copy.ai](https://www.copy.ai/)** – Generate SEO meta descriptions, intros, and more.
 * **[Content at Scale](https://contentatscale.ai/)** – Fully automated long-form SEO blog generation.
+* **[PolyDraft](https://polydraft.ai)** – AI website builder that researches, writes, and builds a complete site from a business brief, then publishes to infrastructure the customer owns.
 
 ## SEO Auditing & On-Page Optimization
 
