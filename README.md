@@ -24,6 +24,7 @@
 * **[What is AI SEO?](https://surferseo.com/blog/ai-in-seo/)** – A practical introduction to how AI is transforming SEO.
 * **[Moz Blog](https://moz.com/blog)** – Insights on SEO strategies, tools, and AI usage.
 * **[Search Engine Journal](https://www.searchenginejournal.com/)** – Industry updates and AI SEO news.
+* **[Claude skills for SEO and GEO](https://aigrowthrank.com/en/guides/claude-skills-seo/)** - AIGrowthRank guide to agent skills and MCP servers for SEO and AI search, each reviewed from its public code.
 
 ## AI SEO Platforms
 
