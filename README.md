@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[WebGlazer](https://webglazer.com/)** – Track how ChatGPT, Gemini, Perplexity, Copilot and Google AI Mode mention and cite your brand, with fixes for each gap.
 
 ## Open-Source Projects
 
