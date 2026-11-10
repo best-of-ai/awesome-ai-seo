@@ -81,6 +81,7 @@
 * **[AIPRM for ChatGPT](https://www.aiprm.com/)** – Community templates for SEO content and audits.
 * **[FlowGPT SEO Prompts](https://flowgpt.com/)** – SEO prompt marketplace.
 * **[PromptVine](https://promptvine.com/)** – Prompt library with copywriting and SEO sections.
+* **[Prompt Generator](https://trypromptgenerator.com)** – Writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Veo and more), plus a free copy-paste prompt library. 10 free prompts a day without an account.
 
 ## Courses & Guides
 
