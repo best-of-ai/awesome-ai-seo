@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[LLM Scout](https://llmscout.co/)** – Tracks brand mentions, citations and competitor visibility in ChatGPT, Claude, Gemini and Perplexity answers.
 
 ## Open-Source Projects
 
