@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[Growth Radar](https://growthradar.app)** – Gives your coding agent a ranked list of SEO and AI-search fixes for your own sites, built from Search Console and Bing data, then checks 28 days later whether each change helped. Free audit with no account.
 
 ## Open-Source Projects
 
