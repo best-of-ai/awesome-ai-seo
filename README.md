@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[Rowfeed AI Overview & AI Search Visibility Trackers](https://apify.com/rowfeed/google-ai-overview-tracker)** – Pay-per-use checks of which domains Google AI Overviews cite and how often a brand appears in AI answers, alongside keyword volume and SERP APIs.
 
 ## Prompt Libraries & Templates
 
