@@ -68,6 +68,7 @@
 * **[JetOctopus](https://jetoctopus.com/)** – Cloud-based SEO crawler with insights.
 * **[ContentKing](https://www.contentkingapp.com/)** – Real-time SEO auditing.
 * **[Sitebulb](https://sitebulb.com/)** – Technical audits with visuals and prioritization.
+* **[AwesomeDevKit](https://awesomedevkit.com/ai-crawler-access-checker)** – Free AI crawler access checker and llms.txt validator to prepare your site for AI search.
 
 ## SERP Tracking & Analytics
 
