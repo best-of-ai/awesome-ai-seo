@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[Citemark](https://citemark.io/)** – Tracks whether ChatGPT, Gemini and Claude recommend a product in answers to buyer questions, and shows who runs the pages AI cites.
 
 ## Prompt Libraries & Templates
 
