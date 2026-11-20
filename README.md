@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[Optia](https://github.com/PMDevSolutions/Optia)** - Open-source Chrome extension that scores on-page SEO for a target keyword and uses Claude to suggest titles, meta descriptions and alt text.
 
 ## Keyword Research & Clustering
 
