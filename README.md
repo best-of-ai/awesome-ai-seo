@@ -75,6 +75,7 @@
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
+* **[FlashData](https://flashdata.dev/)** – Real-time Google Search SERP API (web, news, images, shopping, videos, places) and YouTube Data & transcripts via REST API, CLI, and hosted MCP (`https://data.flashdata.dev/mcp`); free trial (no credit card required), $0/mo pay-as-you-go ($1.00/1k Google searches, $0.50/1k YouTube Data; optional plans from $49/mo).
 
 ## Prompt Libraries & Templates
 
