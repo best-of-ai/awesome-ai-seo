@@ -74,6 +74,7 @@
 * **[SE Ranking](https://seranking.com/)** – AI and machine learning tools for keyword tracking.
 * **[AccuRanker](https://www.accuranker.com/)** – SERP tracking with AI insights.
 * **[Nightwatch](https://nightwatch.io/)** – Search visibility and rank tracking.
+* **[AskAiRank](https://askairank.com)** – Tracks brand mentions and rank in ChatGPT, Claude, Perplexity and Gemini answers.
 * **[Google Search Console](https://search.google.com/search-console/about)** – Track performance in search (basic AI insights included).
 
 ## Prompt Libraries & Templates
