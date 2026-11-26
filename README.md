@@ -36,9 +36,6 @@
 
 ## Open-Source Projects
 
-* **[seo-analyzer](https://github.com/stevenbenner/seo-analyzer)** – Command-line SEO audit tool.
-* **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
-* **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
 
 ## Keyword Research & Clustering
@@ -88,6 +85,7 @@
 * **[AI SEO Playbook](https://contenthacker.com/ai-seo/)** – Practical guide to integrating AI in SEO.
 * **[HubSpot AI Content Guide](https://blog.hubspot.com/marketing/ai-content-marketing)** – Frameworks and examples.
 * **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
+* **[Swavent Guides](https://swavent.com/en/guides)** – Free Shopify, ecommerce, SEO and web development guides.
 
 ## Communities
 
