@@ -62,6 +62,8 @@
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
 
+* **[LaunchPulse](https://pulse.statementflow.win)** – 12-point AEO & `/llms.txt` AI search visibility scanner, generator, and 3-wave SaaS directory backlink verifier.
+
 ## Technical SEO
 
 * **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** – Crawling and audit tool.
