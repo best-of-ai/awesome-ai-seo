@@ -40,6 +40,7 @@
 * **[GPTSEO](https://github.com/gptseo/gptseo)** – AI SEO tool for generating articles and optimizing titles/meta.
 * **[Keyword Clustering Tool (Python)](https://github.com/AndreiMikhalevich/KeywordClustering)** – Cluster keywords using embeddings.
 * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free, with visibility scoring, citation analysis, and competitor battlecards.
+* **[SaaSCity Launch Readiness Check](https://github.com/best-directories/saascity-launch-check-action)** – Open-source MIT GitHub Action and [keyless MCP server](https://saascity.io/mcp) for auditing homepage SEO meta tags, Open Graph images, robots.txt, sitemap.xml, and static HTML readiness in CI or AI coding agents.
 
 ## Keyword Research & Clustering
 
