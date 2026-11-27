@@ -33,6 +33,7 @@
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
 * **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
+* **[SEO Rank Fixer](https://seorankfixer.com)** – Hosted MCP server and Claude Code plugin: your Google Search Console and Bing data, SEO fixes ranked by the clicks they can win, site audits, rank tracking and AI visibility (SEO, AEO, GEO). Free plan.
 
 ## Open-Source Projects
 
