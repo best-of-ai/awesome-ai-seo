@@ -61,6 +61,7 @@
 * **[Clearscope](https://www.clearscope.io/)** – On-page optimization with keyword grading.
 * **[Yoast SEO](https://yoast.com/)** – WordPress plugin with AI-enhanced suggestions.
 * **[INK](https://inkforall.com/)** – AI co-writing assistant with optimization metrics.
+* **[Cygnix SEO MCP](https://mcp.cygnixlabs.com)** – Hosted MCP server for Claude, ChatGPT and Cursor that audits SEO and AI-search readiness, lists the top fixes to paste, and re-audits for a before/after score. Free tier available.
 
 ## Technical SEO
 
